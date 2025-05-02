@@ -10,7 +10,7 @@ function App() {
       // <BuildContext.Provider value={{bulbOn, setBulbOn}}>
       //   <Light />
       // </BuildContext.Provider>
-      <h1>Hi</h1>
+      <h1>Hello</h1>
     )
 
 }
